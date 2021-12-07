@@ -15,7 +15,7 @@ namespace SpecFlowProject1.Steps
             _scenarioContext = scenarioContext;
         }
 
-        [Given("the first number is (.*)")]
+        [Given("su dni (.*)")]
         public void GivenTheFirstNumberIs(int number)
         {
             //TODO: implement arrange (precondition) logic
@@ -27,7 +27,7 @@ namespace SpecFlowProject1.Steps
             _scenarioContext.Pending();
         }
 
-        [Given("the second number is (.*)")]
+        [Given("su clave (.*)")]
         public void GivenTheSecondNumberIs(int number)
         {
             //TODO: implement arrange (precondition) logic
@@ -39,7 +39,7 @@ namespace SpecFlowProject1.Steps
             _scenarioContext.Pending();
         }
 
-        [When("the two numbers are added")]
+        [When("los datos se validan")]
         public void WhenTheTwoNumbersAreAdded()
         {
             //TODO: implement act (action) logic
@@ -47,8 +47,8 @@ namespace SpecFlowProject1.Steps
             _scenarioContext.Pending();
         }
 
-        [Then("the result should be (.*)")]
-        public void ThenTheResultShouldBe(int result)
+        [Then("deberia marcar")]
+        public void ThenTheResultShouldBe()
         {
             //TODO: implement assert (verification) logic
 
