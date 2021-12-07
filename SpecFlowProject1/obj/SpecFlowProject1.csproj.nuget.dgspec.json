@@ -1,0 +1,188 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\SpecFlowProject1\\SpecFlowProject1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\SpecFlowProject1\\SpecFlowProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\SpecFlowProject1\\SpecFlowProject1.csproj",
+        "projectName": "SpecFlowProject1",
+        "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\SpecFlowProject1\\SpecFlowProject1.csproj",
+        "packagesPath": "C:\\Users\\Ana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\SpecFlowProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.AccesoDatos\\TrabajoGrupal.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.AccesoDatos\\TrabajoGrupal.AccesoDatos.csproj"
+              },
+              "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Entidad\\TrabajoGrupal.Entidad.csproj": {
+                "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Entidad\\TrabajoGrupal.Entidad.csproj"
+              },
+              "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Negocio\\TrabajoGrupal.Negocio.csproj": {
+                "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Negocio\\TrabajoGrupal.Negocio.csproj"
+              },
+              "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Presentacion\\TrabajoGrupal.Presentacion.csproj": {
+                "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Presentacion\\TrabajoGrupal.Presentacion.csproj"
+              },
+              "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\UnitTestProject1\\UnitTestProject1.csproj": {
+                "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\UnitTestProject1\\UnitTestProject1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "SpecRun.SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.AccesoDatos\\TrabajoGrupal.AccesoDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.AccesoDatos\\TrabajoGrupal.AccesoDatos.csproj",
+        "projectName": "TrabajoGrupal.AccesoDatos",
+        "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.AccesoDatos\\TrabajoGrupal.AccesoDatos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Entidad\\TrabajoGrupal.Entidad.csproj": {
+                "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Entidad\\TrabajoGrupal.Entidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Entidad\\TrabajoGrupal.Entidad.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Entidad\\TrabajoGrupal.Entidad.csproj",
+        "projectName": "TrabajoGrupal.Entidad",
+        "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Entidad\\TrabajoGrupal.Entidad.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Negocio\\TrabajoGrupal.Negocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Negocio\\TrabajoGrupal.Negocio.csproj",
+        "projectName": "TrabajoGrupal.Negocio",
+        "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Negocio\\TrabajoGrupal.Negocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.AccesoDatos\\TrabajoGrupal.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.AccesoDatos\\TrabajoGrupal.AccesoDatos.csproj"
+              },
+              "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Entidad\\TrabajoGrupal.Entidad.csproj": {
+                "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Entidad\\TrabajoGrupal.Entidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Presentacion\\TrabajoGrupal.Presentacion.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Presentacion\\TrabajoGrupal.Presentacion.csproj",
+        "projectName": "TrabajoGrupal.Presentacion",
+        "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Presentacion\\TrabajoGrupal.Presentacion.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Entidad\\TrabajoGrupal.Entidad.csproj": {
+                "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Entidad\\TrabajoGrupal.Entidad.csproj"
+              },
+              "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Negocio\\TrabajoGrupal.Negocio.csproj": {
+                "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Negocio\\TrabajoGrupal.Negocio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\UnitTestProject1\\UnitTestProject1.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectName": "UnitTestProject1",
+        "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\UnitTestProject1\\UnitTestProject1.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Negocio\\TrabajoGrupal.Negocio.csproj": {
+                "projectPath": "C:\\Users\\Ana\\source\\repos\\Sistema_Asistencia\\TrabajoGrupal.Negocio\\TrabajoGrupal.Negocio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

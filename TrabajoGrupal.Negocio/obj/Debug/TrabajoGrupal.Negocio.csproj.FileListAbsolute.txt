@@ -42,3 +42,14 @@ C:\Users\Rafael\source\repos\SistemaDeAsistencia\TrabajoGrupal.Negocio\obj\Debug
 C:\Users\Rafael\source\repos\SistemaDeAsistencia\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csproj.CopyComplete
 C:\Users\Rafael\source\repos\SistemaDeAsistencia\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.dll
 C:\Users\Rafael\source\repos\SistemaDeAsistencia\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.pdb
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Negocio.dll
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Negocio.pdb
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.AccesoDatos.dll
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.AccesoDatos.pdb
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.Negocio\bin\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.csproj.CopyComplete
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.dll
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.Negocio\obj\Debug\TrabajoGrupal.Negocio.pdb

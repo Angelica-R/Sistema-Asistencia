@@ -25,3 +25,12 @@ C:\Users\Rafael\source\repos\SistemaDeAsistencia\TrabajoGrupal.AccesoDatos\obj\D
 C:\Users\Rafael\source\repos\SistemaDeAsistencia\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.csproj.CopyComplete
 C:\Users\Rafael\source\repos\SistemaDeAsistencia\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.dll
 C:\Users\Rafael\source\repos\SistemaDeAsistencia\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.pdb
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.AccesoDatos\bin\Debug\TrabajoGrupal.AccesoDatos.dll
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.AccesoDatos\bin\Debug\TrabajoGrupal.AccesoDatos.pdb
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.AccesoDatos\bin\Debug\TrabajoGrupal.Entidad.dll
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.AccesoDatos\bin\Debug\TrabajoGrupal.Entidad.pdb
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.csproj.CopyComplete
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.dll
+C:\Users\Ana\source\repos\Sistema_Asistencia\TrabajoGrupal.AccesoDatos\obj\Debug\TrabajoGrupal.AccesoDatos.pdb
